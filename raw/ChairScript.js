@@ -1,4 +1,4 @@
-/// <reference path="../entiti.d.ts" />
+/// <reference path="../wakingapp.d.ts" />
 
 // Local variables
 var currentObject;
