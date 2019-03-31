@@ -1,0 +1,75 @@
+{
+ "{6adce5b6-2706-4836-b7af-5b172fca3d01}": {
+  "category": "Linear Interpolation",
+  "code": "let pos = (^4 == Space.world) ? ^1.transform.position : ^1.transform.localPosition;\nlet dirToMove = Vector3.subtract(^2, pos);\ndirToMove.normalize();\ndirToMove.multiply(^3);\nVector3.distance(pos, ^2) > dirToMove.length ? \n^1.transform.translate(dirToMove, ^4) : ((^4 == Space.world)  ? ^1.transform.position = new Vector3(^2) : ^1.transform.localPosition = new Vector3(^2));",
+  "hideFromList": false,
+  "id": "{6adce5b6-2706-4836-b7af-5b172fca3d01}",
+  "inputs": {
+   "in_1": {
+    "code": "",
+    "hidden": false,
+    "label": "",
+    "name": "in_1",
+    "order": 1,
+    "plugHidden": false,
+    "type": 0,
+    "value": ""
+   },
+   "in_2": {
+    "code": "object",
+    "hidden": false,
+    "label": "Object To Move",
+    "name": "in_2",
+    "order": 2,
+    "plugHidden": false,
+    "type": 8,
+    "value": ""
+   },
+   "in_4": {
+    "code": "",
+    "hidden": false,
+    "label": "Towards Position",
+    "name": "in_4",
+    "order": 4,
+    "plugHidden": false,
+    "type": 5,
+    "value": ""
+   },
+   "in_5": {
+    "code": "",
+    "hidden": false,
+    "label": "Speed",
+    "name": "in_5",
+    "order": 5,
+    "plugHidden": false,
+    "type": 24,
+    "value": "1"
+   },
+   "in_6": {
+    "code": "",
+    "hidden": false,
+    "label": "RelativeTo",
+    "name": "in_6",
+    "order": 6,
+    "plugHidden": false,
+    "type": 23,
+    "value": ""
+   }
+  },
+  "outputs": {
+   "out_0": {
+    "code": "",
+    "hidden": false,
+    "label": "",
+    "name": "out_0",
+    "order": 0,
+    "plugHidden": false,
+    "type": 0,
+    "value": ""
+   }
+  },
+  "title": "Move Towards",
+  "type": 2,
+  "unique": false
+ }
+}

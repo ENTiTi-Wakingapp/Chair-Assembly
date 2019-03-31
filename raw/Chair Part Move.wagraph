@@ -1,0 +1,540 @@
+{
+ "connections": {
+  "connection_0": {
+   "origin": {
+    "node": "{e962bdae-bf97-423a-9e12-9055b109c7a0}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{3a98fba5-4dd0-4064-89e7-9c03a2ed765a}",
+    "socket": 0
+   }
+  },
+  "connection_1": {
+   "origin": {
+    "node": "{37487ccd-1afc-4186-a9fe-30497539a33a}",
+    "socket": 1
+   },
+   "target": {
+    "node": "{2447f0eb-2b7a-4821-88c8-8b67b5a68cab}",
+    "socket": 0
+   }
+  },
+  "connection_10": {
+   "origin": {
+    "node": "{e962bdae-bf97-423a-9e12-9055b109c7a0}",
+    "socket": 1
+   },
+   "target": {
+    "node": "{631fac07-bb9c-49f2-b211-13ab7cc71f49}",
+    "socket": 0
+   }
+  },
+  "connection_11": {
+   "origin": {
+    "node": "{e962bdae-bf97-423a-9e12-9055b109c7a0}",
+    "socket": 3
+   },
+   "target": {
+    "node": "{f94bd0aa-7915-46e2-ae17-c243d2850c82}",
+    "socket": 0
+   }
+  },
+  "connection_12": {
+   "origin": {
+    "node": "{2693bba5-c73e-4125-ac7a-5fa195347e10}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{cff1e1c1-69f9-46f2-9a94-36282061d01e}",
+    "socket": 0
+   }
+  },
+  "connection_13": {
+   "origin": {
+    "node": "{7aa8ed10-00a4-4535-8f19-b873f12c4b66}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{fce21893-a6e6-4a14-9436-b5591cc3ad96}",
+    "socket": 0
+   }
+  },
+  "connection_14": {
+   "origin": {
+    "node": "{76c21bb2-7c90-42de-8453-d1fbc11a5a0c}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{1d543cba-80d2-4847-93c0-69ea5ed184f9}",
+    "socket": 0
+   }
+  },
+  "connection_15": {
+   "origin": {
+    "node": "{9c47e607-1632-4748-9385-6046b066d012}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{cff1e1c1-69f9-46f2-9a94-36282061d01e}",
+    "socket": 0
+   }
+  },
+  "connection_16": {
+   "origin": {
+    "node": "{9c561575-1b21-4123-8ed7-3beb5ded7a61}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{4f908d5c-d574-4e37-b7e7-853377e0c696}",
+    "socket": 1
+   }
+  },
+  "connection_17": {
+   "origin": {
+    "node": "{37487ccd-1afc-4186-a9fe-30497539a33a}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{ae25cd12-9447-4232-ab47-c6352c478fc6}",
+    "socket": 0
+   }
+  },
+  "connection_18": {
+   "origin": {
+    "node": "{4f908d5c-d574-4e37-b7e7-853377e0c696}",
+    "socket": 1
+   },
+   "target": {
+    "node": "{76c21bb2-7c90-42de-8453-d1fbc11a5a0c}",
+    "socket": 0
+   }
+  },
+  "connection_19": {
+   "origin": {
+    "node": "{1d543cba-80d2-4847-93c0-69ea5ed184f9}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{631fac07-bb9c-49f2-b211-13ab7cc71f49}",
+    "socket": 0
+   }
+  },
+  "connection_2": {
+   "origin": {
+    "node": "{fce21893-a6e6-4a14-9436-b5591cc3ad96}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{4f908d5c-d574-4e37-b7e7-853377e0c696}",
+    "socket": 0
+   }
+  },
+  "connection_20": {
+   "origin": {
+    "node": "{631fac07-bb9c-49f2-b211-13ab7cc71f49}",
+    "socket": 1
+   },
+   "target": {
+    "node": "{9c47e607-1632-4748-9385-6046b066d012}",
+    "socket": 0
+   }
+  },
+  "connection_3": {
+   "origin": {
+    "node": "{2447f0eb-2b7a-4821-88c8-8b67b5a68cab}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{cff1e1c1-69f9-46f2-9a94-36282061d01e}",
+    "socket": 0
+   }
+  },
+  "connection_4": {
+   "origin": {
+    "node": "{7aa8ed10-00a4-4535-8f19-b873f12c4b66}",
+    "socket": 2
+   },
+   "target": {
+    "node": "{2693bba5-c73e-4125-ac7a-5fa195347e10}",
+    "socket": 0
+   }
+  },
+  "connection_5": {
+   "origin": {
+    "node": "{fce21893-a6e6-4a14-9436-b5591cc3ad96}",
+    "socket": 1
+   },
+   "target": {
+    "node": "{9c561575-1b21-4123-8ed7-3beb5ded7a61}",
+    "socket": 0
+   }
+  },
+  "connection_6": {
+   "origin": {
+    "node": "{46bd915e-c1c2-44a8-b497-36fe5231e643}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{f2d40ab3-1051-4fda-9833-db99e4cda60c}",
+    "socket": 0
+   }
+  },
+  "connection_7": {
+   "origin": {
+    "node": "{f94bd0aa-7915-46e2-ae17-c243d2850c82}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{3a98fba5-4dd0-4064-89e7-9c03a2ed765a}",
+    "socket": 1
+   }
+  },
+  "connection_8": {
+   "origin": {
+    "node": "{4f908d5c-d574-4e37-b7e7-853377e0c696}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{37487ccd-1afc-4186-a9fe-30497539a33a}",
+    "socket": 0
+   }
+  },
+  "connection_9": {
+   "origin": {
+    "node": "{631fac07-bb9c-49f2-b211-13ab7cc71f49}",
+    "socket": 0
+   },
+   "target": {
+    "node": "{78b5d072-f83f-4bc6-a9bf-b9fe7fc946a3}",
+    "socket": 0
+   }
+  }
+ },
+ "nodes": {
+  "node_{1d543cba-80d2-4847-93c0-69ea5ed184f9}": {
+   "category": "Object",
+   "defId": "17",
+   "inputs": [
+    ""
+   ],
+   "outputs": [
+    "^0.transform"
+   ],
+   "pos": {
+    "x": 16049.0,
+    "y": 16778.0
+   },
+   "sceneId": "{1d543cba-80d2-4847-93c0-69ea5ed184f9}",
+   "title": "Get Transform"
+  },
+  "node_{2447f0eb-2b7a-4821-88c8-8b67b5a68cab}": {
+   "category": "Math",
+   "defId": "229",
+   "inputs": [
+    "0",
+    "14"
+   ],
+   "outputs": [
+    "(^0 < ^1)"
+   ],
+   "pos": {
+    "x": 15074.0,
+    "y": 17011.0
+   },
+   "sceneId": "{2447f0eb-2b7a-4821-88c8-8b67b5a68cab}",
+   "title": "A < B?"
+  },
+  "node_{2693bba5-c73e-4125-ac7a-5fa195347e10}": {
+   "category": "Math",
+   "defId": "219",
+   "inputs": [
+    "0",
+    "1"
+   ],
+   "outputs": [
+    "(^0+^1)"
+   ],
+   "pos": {
+    "x": 15131.25,
+    "y": 16731.25
+   },
+   "sceneId": "{2693bba5-c73e-4125-ac7a-5fa195347e10}",
+   "title": "Add"
+  },
+  "node_{37487ccd-1afc-4186-a9fe-30497539a33a}": {
+   "category": "Flow Control",
+   "defId": "281",
+   "inputs": [
+    "N/A",
+    "false"
+   ],
+   "outputs": [
+    "N/A",
+    "N/A"
+   ],
+   "pos": {
+    "x": 15458.0,
+    "y": 16926.0
+   },
+   "sceneId": "{37487ccd-1afc-4186-a9fe-30497539a33a}",
+   "title": "Branch"
+  },
+  "node_{3a98fba5-4dd0-4064-89e7-9c03a2ed765a}": {
+   "category": "Events",
+   "defId": "7",
+   "outputs": [
+    "N/A",
+    "deltaTime"
+   ],
+   "pos": {
+    "x": 15452.0,
+    "y": 16165.0
+   },
+   "sceneId": "{3a98fba5-4dd0-4064-89e7-9c03a2ed765a}",
+   "title": "On Update"
+  },
+  "node_{46bd915e-c1c2-44a8-b497-36fe5231e643}": {
+   "category": "Variables",
+   "defId": "246",
+   "inputs": [
+    "N/A",
+    "Chair Part Number",
+    "0"
+   ],
+   "outputs": [
+    "N/A"
+   ],
+   "pos": {
+    "x": 15902.0,
+    "y": 15878.0
+   },
+   "sceneId": "{46bd915e-c1c2-44a8-b497-36fe5231e643}",
+   "title": "Set Number Variable"
+  },
+  "node_{4f908d5c-d574-4e37-b7e7-853377e0c696}": {
+   "category": "Vector3",
+   "defId": "51",
+   "inputs": [
+    "N/A",
+    "0.000000,0.000000,0.000000"
+   ],
+   "outputs": [
+    "N/A",
+    "^1.length"
+   ],
+   "pos": {
+    "x": 16642.0,
+    "y": 16950.0
+   },
+   "sceneId": "{4f908d5c-d574-4e37-b7e7-853377e0c696}",
+   "title": "Get Vector Length"
+  },
+  "node_{631fac07-bb9c-49f2-b211-13ab7cc71f49}": {
+   "category": "Transform",
+   "defId": "38",
+   "inputs": [
+    "object.transform",
+    "",
+    "false"
+   ],
+   "outputs": [
+    "^0.getChildByName(^1, ^2)"
+   ],
+   "pos": {
+    "x": 15644.0,
+    "y": 16490.0
+   },
+   "sceneId": "{631fac07-bb9c-49f2-b211-13ab7cc71f49}",
+   "title": "Get Child by Name"
+  },
+  "node_{76c21bb2-7c90-42de-8453-d1fbc11a5a0c}": {
+   "category": "Transform",
+   "defId": "21",
+   "inputs": [
+    "object.transform"
+   ],
+   "outputs": [
+    "^0.localPosition"
+   ],
+   "pos": {
+    "x": 16382.0,
+    "y": 16856.0
+   },
+   "sceneId": "{76c21bb2-7c90-42de-8453-d1fbc11a5a0c}",
+   "title": "Get Local Position"
+  },
+  "node_{78b5d072-f83f-4bc6-a9bf-b9fe7fc946a3}": {
+   "category": "Object",
+   "defId": "17",
+   "inputs": [
+    "Chair"
+   ],
+   "outputs": [
+    "^0.transform"
+   ],
+   "pos": {
+    "x": 15268.0,
+    "y": 16434.0
+   },
+   "sceneId": "{78b5d072-f83f-4bc6-a9bf-b9fe7fc946a3}",
+   "title": "Get Transform"
+  },
+  "node_{7aa8ed10-00a4-4535-8f19-b873f12c4b66}": {
+   "category": "Variables",
+   "defId": "246",
+   "inputs": [
+    "N/A",
+    "Chair Part Number",
+    "0"
+   ],
+   "outputs": [
+    "N/A"
+   ],
+   "pos": {
+    "x": 17360.703125,
+    "y": 16831.6875
+   },
+   "sceneId": "{7aa8ed10-00a4-4535-8f19-b873f12c4b66}",
+   "title": "Set Number Variable"
+  },
+  "node_{9c47e607-1632-4748-9385-6046b066d012}": {
+   "category": "Text Operations",
+   "defId": "{6adce5b6-2706-4836-b7af-5b172fca3cd4}",
+   "inputs": [
+    "0"
+   ],
+   "outputs": [
+    "^0.toString()"
+   ],
+   "pos": {
+    "x": 15135.0,
+    "y": 16628.0
+   },
+   "sceneId": "{9c47e607-1632-4748-9385-6046b066d012}",
+   "title": "Number To Text"
+  },
+  "node_{9c561575-1b21-4123-8ed7-3beb5ded7a61}": {
+   "category": "Math",
+   "defId": "227",
+   "inputs": [
+    "0",
+    "0"
+   ],
+   "outputs": [
+    "(^0 == ^1)"
+   ],
+   "pos": {
+    "x": 17009.0,
+    "y": 16997.0
+   },
+   "sceneId": "{9c561575-1b21-4123-8ed7-3beb5ded7a61}",
+   "title": "A = B?"
+  },
+  "node_{ae25cd12-9447-4232-ab47-c6352c478fc6}": {
+   "category": "Events",
+   "defId": "6",
+   "outputs": [
+    "N/A"
+   ],
+   "pos": {
+    "x": 15075.0,
+    "y": 16879.0
+   },
+   "sceneId": "{ae25cd12-9447-4232-ab47-c6352c478fc6}",
+   "title": "On Touch Started"
+  },
+  "node_{cff1e1c1-69f9-46f2-9a94-36282061d01e}": {
+   "category": "Variables",
+   "defId": "245",
+   "inputs": [
+    "Chair Part Number"
+   ],
+   "outputs": [
+    "userVariables[\"^0\"]"
+   ],
+   "pos": {
+    "x": 14559.0,
+    "y": 16759.0
+   },
+   "sceneId": "{cff1e1c1-69f9-46f2-9a94-36282061d01e}",
+   "title": "Get Number Variable"
+  },
+  "node_{e962bdae-bf97-423a-9e12-9055b109c7a0}": {
+   "category": "Linear Interpolation",
+   "defId": "{6adce5b6-2706-4836-b7af-5b172fca3d01}",
+   "inputs": [
+    "N/A",
+    "",
+    "0.000000,0.000000,0.000000",
+    "1",
+    "1"
+   ],
+   "outputs": [
+    "N/A"
+   ],
+   "pos": {
+    "x": 16128.0,
+    "y": 16197.0
+   },
+   "sceneId": "{e962bdae-bf97-423a-9e12-9055b109c7a0}",
+   "title": "Move Towards"
+  },
+  "node_{f2d40ab3-1051-4fda-9833-db99e4cda60c}": {
+   "category": "Events",
+   "defId": "0",
+   "outputs": [
+    "N/A"
+   ],
+   "pos": {
+    "x": 15696.0,
+    "y": 15825.0
+   },
+   "sceneId": "{f2d40ab3-1051-4fda-9833-db99e4cda60c}",
+   "title": "On Start"
+  },
+  "node_{f94bd0aa-7915-46e2-ae17-c243d2850c82}": {
+   "category": "Math",
+   "defId": "221",
+   "inputs": [
+    "0",
+    "50"
+   ],
+   "outputs": [
+    "(^0*^1)"
+   ],
+   "pos": {
+    "x": 15657.0,
+    "y": 16314.0
+   },
+   "sceneId": "{f94bd0aa-7915-46e2-ae17-c243d2850c82}",
+   "title": "Multiply"
+  },
+  "node_{fce21893-a6e6-4a14-9436-b5591cc3ad96}": {
+   "category": "Flow Control",
+   "defId": "281",
+   "inputs": [
+    "N/A",
+    "false"
+   ],
+   "outputs": [
+    "N/A",
+    "N/A"
+   ],
+   "pos": {
+    "x": 17156.703125,
+    "y": 16770.6875
+   },
+   "sceneId": "{fce21893-a6e6-4a14-9436-b5591cc3ad96}",
+   "title": "Branch"
+  }
+ },
+ "variables": [
+  {
+   "getterId": "245",
+   "name": "Chair Part Number",
+   "setterId": "246",
+   "type": 24
+  }
+ ]
+}

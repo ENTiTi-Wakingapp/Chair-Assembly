@@ -1,0 +1,35 @@
+{
+ "{6adce5b6-2706-4836-b7af-5b172fca3cd4}": {
+  "category": "Text Operations",
+  "code": "",
+  "hideFromList": false,
+  "id": "{6adce5b6-2706-4836-b7af-5b172fca3cd4}",
+  "inputs": {
+   "in_2": {
+    "code": "",
+    "hidden": false,
+    "label": "Number",
+    "name": "in_2",
+    "order": 2,
+    "plugHidden": false,
+    "type": 24,
+    "value": ""
+   }
+  },
+  "outputs": {
+   "out_0": {
+    "code": "^0.toString()",
+    "hidden": false,
+    "label": "Text",
+    "name": "out_0",
+    "order": 0,
+    "plugHidden": false,
+    "type": 3,
+    "value": ""
+   }
+  },
+  "title": "Number To Text",
+  "type": 2,
+  "unique": false
+ }
+}
