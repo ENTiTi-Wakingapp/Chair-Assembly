@@ -1,6 +1,8 @@
 # Chair Assembly project
 
-This is Chair assembly project that was created in Wakingapp AR Studio 3.1.6
+![alt text](https://raw.githubusercontent.com/ENTiTi-Wakingapp/Chair-Assembly/master/Project.png)
+
+This is the Chair assembly project that was created in Wakingapp AR Studio 3.1.6
 
 This repository is related to 'How to' videos on our YouTube channel - 
 
